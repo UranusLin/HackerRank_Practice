@@ -32,4 +32,6 @@
 
 # Mathematics
 
+| Subdomains | Challenge | Solution |
+| :--- | :----: | ----: |
 | Fundamentals | [Handshake](https://www.hackerrank.com/challenges/handshake/problem) | [Handshake.py](https://github.com/UranusLin/HackerRank_Practice/blob/master/Practice/Mathematics/Fundamentals/Handshake.py) |
