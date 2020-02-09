@@ -1,7 +1,7 @@
 # HackerRank_Practice
 
 * [Algorithms](#Algorithms)
-* [Interview Preparation Kit](#Interview Preparation Kit)
+* [Interview Preparation Kit](#Interview-Preparation-Kit)
 * [Mathematics](#Mathematics)
 
 # Algorithms
